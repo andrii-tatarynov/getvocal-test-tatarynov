@@ -1,5 +1,25 @@
 # getvocal-test-tatarynov
 
+# Setup project
+
+1. Clone this repository
+2. install packages via npm (or you prefer) package manager
+3. to strat project in console run launch: npm run dev 
+
+# Functionality description
+
+this is a simple list of tasks.
+You can:
+- create new tasks.
+- mark tasks as completed
+- edit tasks
+- delete tasks
+
+the list can be filtered by completed and uncompleted tasks
+
+The list stores the previous state of tasks in local storage. Just a list of tasks, no filtering or active editing.
+
+# basic template notes
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
