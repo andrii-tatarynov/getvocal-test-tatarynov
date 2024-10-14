@@ -1,5 +1,11 @@
 # getvocal-test-tatarynov
 
+# time report
+
+- net working time was spent: 6 hours
+- with all additional actions and breaks: 10 hours
+- and I would like to spend another hour or two to play, work with animations and maybe optimize the code.
+
 # Setup project
 
 1. Clone this repository
